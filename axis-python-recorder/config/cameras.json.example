@@ -1,0 +1,11 @@
+{
+  "recordings_dir": "recordings",
+  "cameras": [
+    {
+      "name": "axis_cam_4",
+      "rtsp_url": "rtsp://CAMERA_IP/axis-media/media.amp?videocodec=h264&camera=4",
+      "username": "YOUR_CAMERA_USERNAME",
+      "password": "YOUR_CAMERA_PASSWORD"
+    }
+  ]
+}
